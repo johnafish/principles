@@ -1,0 +1,15 @@
+# Principles
+This is the working draft of my principles. I am writing it in Markdown using iA Writer and using GitHub for version control. I am writing these down as inspired by Ray Dalio in his seminal work, also titled `Principles`.
+## 1. Patience
+You are young. You have not just years, but _decades_ to execute on your goals. **Be patient.**
+### 1.1 Great things come to those who wait.
+Consider how rare a truly great opportunity is and then consider the likelihood that you will face one every day, every week, or every month. You must be willing to wait for these opportunities and not waste your energy so that you are prepared to strike when the time is opportune and the great opportunity arises. Rest like a lion, not like a sloth.
+### 1.2 Stick to the plan and you will prosper.
+If there is one thing that you are good at, it's planning. You have the ability to understand a system and make a plan which will result in success, so long as you are patient and actually stick to the plan.
+
+## 2. Consistency
+### 2.1 Show up.
+### 2.2 Enjoy the process.
+
+## 3. Essentialism
+You are constantly being bombarded with new, interesting, opportunities. You will need to say no to 90% of them. Don't be afraid of this. If you are patient, you will eventually have the meaningful opportunities that you are so desperate for.
